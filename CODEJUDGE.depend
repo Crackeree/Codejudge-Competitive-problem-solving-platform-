@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1529992419 source:c:\users\hp\desktop\codejudge\main.cpp
+	"main.h"
+
+1529991278 c:\users\hp\desktop\codejudge\main.h
+	<bits/stdc++.h>
+	"submit.h"
+	"compare.h"
+
+1529983680 source:c:\users\hp\desktop\codejudge\submit_cpp.cpp
+
+1529947989 source:c:\users\hp\desktop\codejudge\comapre.cpp
+	"main.h"
+
+1529991211 c:\users\hp\desktop\codejudge\compare.h
+
+1529991478 c:\users\hp\desktop\codejudge\submit.h
+
+1529989675 source:c:\users\hp\desktop\codejudge\class.cpp
+	"main.h"
+	<bits/stdc++.h>
+
+1529991722 source:c:\users\hp\desktop\codejudge\submit.cpp
+	"main.h"
+
+1529991278 source:c:\users\hp\desktop\codejudge\compare.cpp
+	"main.h"
+
